@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Healthy Smoothie Recipes with Nutritional Information and Downloadable PDFs.">
+  <title>Healthy Smoothie Recipes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Healthy Smoothie Recipes</h1>
+    <p>Your guide to nutritious and delicious smoothies.</p>
+  </header>
+
+  <section class="smoothie-recipe">
+    <div class="recipe-container">
+      <h2>Green Kale Smoothie</h2>
+      <img src="smoothie1.jpg" alt="Green Kale Smoothie" class="smoothie-img">
+      <p>This smoothie is packed with vitamins, fiber, and antioxidants.</p>
+
+      <h3>Nutritional Information</h3>
+      <ul>
+        <li>Calories: 150</li>
+        <li>Protein: 5g</li>
+        <li>Carbs: 30g</li>
+        <li>Fat: 2g</li>
+      </ul>
+
+      <a href="GreenKaleSmoothieRecipe.pdf" download class="download-btn">Download Recipe PDF</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Healthy Smoothie Recipes</p>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
+S
